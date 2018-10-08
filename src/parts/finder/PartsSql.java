@@ -27,7 +27,7 @@ public class PartsSql {
     ResultSet myRs = null;
 
     String user = "root";
-    String pass = "123Weezer";
+    String pass = "";
 
     public Connection getCon() throws SQLException {
      
